@@ -50,3 +50,7 @@ To retrieve your affiiate ID, simply follow the below instructions:
 2) Click "Offers"
 3) Click "Offer Wall"
 4) Under SDK Integration, you will see your affiliate ID
+
+
+## Support
+If you experience any issues with integration, please reach out to your affiliate manager or alternatively, you can email support@kickassoffers.com
