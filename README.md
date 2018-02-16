@@ -6,7 +6,7 @@
 
 Google documentation for importing external libraries to your project: [here](https://developer.android.com/studio/projects/android-library.html#AddDependency)
 
-Download [KickAssWallSdk](https://github.com/kickassoffers/offerwall/blob/master/library/kaowallsdk-r-v0.1.0.aar) and add to your project. After that modify your `build.gradle` file
+Download [KickAssWallSdk](https://github.com/kickassoffers/offerwall/raw/master/library/kaowallsdk-r-v0.1.0.aar) and add to your project. After that modify your `build.gradle` file
 
 ```gradle
 dependencies {
