@@ -31,7 +31,7 @@ and call the method 'show' there in a place where you want to open KickAssWall:
 KaoWall.show();
 ```
 
-#### 2nd
+#### Method 2
 You can init the library and show where you want to open KickAssWall
 
 ```java
